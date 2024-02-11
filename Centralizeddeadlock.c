@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define MAX_RESOURCES 100
-#define MAX_PROCESSES 100
+#define MAX_RESOURCES 10
+#define MAX_PROCESSES 10
 
 // Forward declaration of Resource structure
 typedef struct Resource Resource;
